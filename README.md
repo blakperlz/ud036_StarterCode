@@ -8,6 +8,11 @@ There are 3 primary py files in this grouping:
     entertainment_center2.py = Execution and content module: listing of the movies, details about the movies, links and corresponding functions
     fresh_tomatoes.py = webpage module.  script that will launch the website with mark up language.  Uses entertainment_center2 as the content module.
 
+Two quick/easy ways to play/execute this file and get the webpage html you can either:
+1. Execute the fresh_tomatoes.html file.  
+OR
+2. When using IDLE or another python IDE this code can be executed by opening and running the 'entertainment_center2.py' file.
+
 
 #media2.py
     There is 1 parent class and 1 child class in this file.  Intent is to make it modular for it can grow over time.
